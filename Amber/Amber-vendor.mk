@@ -667,7 +667,6 @@ PRODUCT_PACKAGES += \
     libgpustats \
     libsdm-disp-vndapis \
     WfdService \
-    com.qualcomm.location \
     CneApp \
     IWlanService \
     TimeService \
